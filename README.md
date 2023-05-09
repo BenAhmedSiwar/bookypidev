@@ -2,7 +2,7 @@
 
 ### FRONTEND
 
-https://github.com/Nikhil-Wani/Community-Hub-Angular-Frontend
+
 
 ### BACKEND
 
